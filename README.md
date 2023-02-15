@@ -8,9 +8,7 @@ file01 = ExtractionData(file="files/BNCC_Ensino Fundamental.xlsx",
                          "PRÁTICAS DE LINGUAGEM", "HABILIDADES", "UNIDADES TEMÁTICAS"]
                   )
 `
-
 ### Objeto retorna (method) execute() -> dict[str, dict[int, dict[str, str]]]
-
 `
 data = file01.execute()
 `
